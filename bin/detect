@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# bin/use <build-dir>
+
+echo "Node_Java" && exit 0
